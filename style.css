@@ -1,5 +1,5 @@
 body {
-background-color: black;
+background-color: red;
 }
 h1 {
 color: blue;
@@ -18,7 +18,7 @@ top: 12px;
 width: 80px;
 padding: 10px;
 height: 50px;
-border: 5px solid green;
+border-color: coral;
 margin 0;
 }
 
@@ -34,9 +34,11 @@ margin 0;
 
 .div3 {
 position: absolute;
-top: -6px;
+top: 10px;
 left: 200px;
 width: 80px;
 height: 50px;
-padding 10px;
+padding: 10px;
 }
+
+
