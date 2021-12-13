@@ -4,41 +4,35 @@ background-color: black;
 h1 {
 color: blue;
 }
+
 p {
-   color: red;
+     color: red;
+     word-spacing: 100px;
+     font: 20px Arial, sans-serif;
 }
 
 .p2 {
-     color: red;
+     color: white;
+     word-spacing: 10px;
+     font: 20px Arial, sans-serif;
 }
+
 div {
 position: absolute;
-left: 30px;
-top: 12px;
-width: 80px;
-padding: 10px;
-height: 50px;
-border-color: coral;
-margin 0;
+top: 20px;
+left: 450px;
+width:  900px;
+height: 59px;
+padding: 5px;
+border: 3px solid white;
 }
 
 .div2 {
 position: absolute;
-top: 12px;
-left: 220px;
-width: 80px;
-height: 50px;
-padding 10px;
-margin 0;
+top: 80px;
+left: 2px;
+width: 900px;
+height: 350px;
+padding: 2px;
+border: 2px solid white;
 }
-
-.div3 {
-position: absolute;
-top: 100px;
-left: 200px;
-width: 80px;
-height: 50px;
-padding: 10px;
-}
-
-
